@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PairString</string>
+    <string name="label_title">Comparador de Textos</string>
+    <string name="label_string1">Ingrese el primer Texto a comparar</string>
+    <string name="label_string2">Ingrese el segundo Texto a comparar</string>
+    <string name="label_button">Comparar</string>
+    <string name="mje_init">Aún no se comparó</string>
+    <string name="mje_equal">Los Textos son iguales</string>
+    <string name="mje_distint">Los Textos son distintos</string>
+    <string name="mje_changed">Los Textos han cambiado</string>
+</resources>
